@@ -16,5 +16,19 @@ Getting Started
 
 **Note:** Untuk penggunaan lebih lanjut bisa di download ebooknya disini [![build status](https://cdn1.iconfinder.com/data/icons/crystalproject/16x16/apps/ark.png?branch=master)](http://oksigenlabs.com) 
 
+Demo
+----
+Untuk release update lihat dibawah
 
+Untuk Demo nya bisa kunjungi 
+
+http://oksigenlabs.com/rootbilling
+
+Login dengan IP Address, Username dan Password sesuai routerOS yang anda miliki
+
+**IP Address:** 
+
+**Username:** 
+
+**Password:** 
 
